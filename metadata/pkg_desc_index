@@ -1,0 +1,6 @@
+dev-libs/efl 1.18.0 1.18.1 9999: Enlightenment Foundation Core Libraries
+media-libs/elementary 9999: Basic widget set, based on EFL for mobile touch-screen devices
+media-plugins/emotion_generic_players 9999: Provides external applications as generic loaders for Evas
+media-plugins/evas_generic_loaders 9999: Provides external applications as generic loaders for Evas
+x11-terms/terminology 0.9.1: Feature rich terminal emulator using the Enlightenment Foundation Libraries
+x11-wm/enlightenment 0.19.2 0.19.4 0.19.9 0.19.10 0.20.2 0.21.1 0.21.2 9999: Enlightenment DR19 window manager
