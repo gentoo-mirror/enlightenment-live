@@ -50,7 +50,6 @@ x11-wm/enlightenment:enlightenment_modules_conf-theme - Used to configure your t
 x11-wm/enlightenment:enlightenment_modules_conf-window-manipulation - Configures window raise, resistance, and maximize policies
 x11-wm/enlightenment:enlightenment_modules_conf-window-remembers - Delete existing window remembers
 x11-wm/enlightenment:enlightenment_modules_connman - Control Wifi and wired networks as a user
-x11-wm/enlightenment:enlightenment_modules_contact - Contect module
 x11-wm/enlightenment:enlightenment_modules_cpufreq - Gadget to monitor and change the CPU frequency
 x11-wm/enlightenment:enlightenment_modules_everything - The run command module provides an application launcher dialog
 x11-wm/enlightenment:enlightenment_modules_fileman - Enlightenment's integrated file manager
