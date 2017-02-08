@@ -21,9 +21,11 @@ dev-libs/efl:psd - Enable PSD image loader
 dev-libs/efl:rawphoto - Enable libraw library for image loader
 dev-libs/efl:scim - Enable Smart Common Input Method
 dev-libs/efl:tga - Enable Tga image loader
+dev-libs/efl:tiff - Enable TIFF image loader
 dev-libs/efl:tslib - Enable x11-libs/tslib for touchscreen events
 dev-libs/efl:v4l2 - Include Video4Linux v2 support in the build
 dev-libs/efl:valgrind - Enable usage of dev-util/valgrind in debug
+dev-libs/efl:vlc - Enabling vlc evas engine
 dev-libs/efl:webp - Enable WebP image loader
 dev-libs/efl:xim - Enable X Input Method
 x11-wm/enlightenment:eeze - Use eeze to mount/unmount devices trough udev
