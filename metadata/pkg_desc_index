@@ -1,6 +1,6 @@
 app-editors/ecrire 9999: Enlightenment experimental text editor
 app-misc/equate 9999: Enlightenment calculator
-dev-libs/efl 1.18.0 1.18.1 1.18.2 1.18.3 1.18.4 9999: Enlightenment Foundation Core Libraries
+dev-libs/efl 1.18.0 1.18.1 1.18.2 1.18.3 1.18.4 1.19.0 9999: Enlightenment Foundation Core Libraries
 dev-python/python-efl 1.18.0 9999: Python bindings for EFL
 dev-util/enventor 9999: EFL Dynamic EDC edtiro
 dev-vcs/egitu 9999: GIT client based on EFL
@@ -10,5 +10,5 @@ media-video/rage 9999: This is a Video + Audio player mplayer style, based on EF
 net-irc/express 9999: Enlightenment IRC client
 net-misc/econnman 9999: EFL user interface for connman
 net-p2p/epour 9999: Enlightenment torrent client
-x11-terms/terminology 9999: Feature rich terminal emulator using the Enlightenment Foundation Libraries
-x11-wm/enlightenment 0.19.2 0.19.4 0.19.9 0.19.10 0.20.2 0.21.1 0.21.2 0.21.3 0.21.4 0.21.5 0.21.6 9999: Enlightenment DR19 window manager
+x11-terms/terminology 1.0.0 9999: Feature rich terminal emulator using the Enlightenment Foundation Libraries
+x11-wm/enlightenment 0.19.2 0.19.4 0.19.9 0.19.10 0.20.2 0.21.1 0.21.2 0.21.3 0.21.4 0.21.5 0.21.6 0.21.7 9999: Enlightenment DR19 window manager
