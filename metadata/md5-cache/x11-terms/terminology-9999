@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile configure install test unpack
-DEPEND=|| ( >=dev-libs/efl-1.18.0 ( <dev-libs/efl-1.18.0 >=media-libs/elementary-1.15.1 ) ) virtual/pkgconfig dev-util/meson >=dev-util/meson-0.45.1 >=dev-util/ninja-1.7.2 >=dev-vcs/git-1.8.2.1[curl]
+DEPEND=>=dev-libs/efl-1.18.0 virtual/pkgconfig dev-util/meson >=dev-util/meson-0.45.1 >=dev-util/ninja-1.7.2 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Feature rich terminal emulator using the Enlightenment Foundation Libraries
 EAPI=6
 HOMEPAGE=https://www.enlightenment.org/p.php?p=about/terminology
 LICENSE=BSD-2
-RDEPEND=|| ( >=dev-libs/efl-1.18.0 ( <dev-libs/efl-1.18.0 >=media-libs/elementary-1.15.1 ) )
+RDEPEND=>=dev-libs/efl-1.18.0
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9	meson	29ef682942c6ff558de2f797a61790c2	multilib	b2f01ad412baf81650c23fcf0975fa33	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	python-utils-r1	12114a2a9aab35b93efc037a196b3234	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
-_md5_=2d995aa14e50f5139aee4d0c7af20ccc
+_md5_=f08d1b805ce38d0b25db89c12ae5ce8f
