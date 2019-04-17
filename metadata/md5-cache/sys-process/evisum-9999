@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=dev-libs/efl
+DESCRIPTION=System and process monitor written with EFL
+EAPI=7
+HOMEPAGE=https://www.enlightenment.org/
+KEYWORDS=~amd64 ~x86
+LICENSE=ISC
+RDEPEND=|| ( dev-libs/efl[X] dev-libs/efl[wayland] )
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=35eec234cb8cb941c650dceb5c4c3069
