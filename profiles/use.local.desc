@@ -124,6 +124,5 @@ x11-wm/enlightenment:enlightenment_modules_wl-wl - Wayland-in-Wayland module
 x11-wm/enlightenment:enlightenment_modules_wl-x11 - Wayland-in-X11 module
 x11-wm/enlightenment:enlightenment_modules_xkbswitch - Keyboard layout configuration and switcher
 x11-wm/enlightenment:enlightenment_modules_xwayland - X/Wayland integration
-x11-wm/enlightenment:pm-utils - Adds support for suspend/resume the system through sys-power/pm-utils
 x11-wm/enlightenment:udev - Use sys-fs/udev to determine available devices
 x11-wm/enlightenment:ukit - Use upower/udisks to automount devices
