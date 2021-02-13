@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure install postinst test unpack
-DEPEND=dev-libs/efl[X] nls? ( sys-devel/gettext ) pam? ( sys-libs/pam ) consolekit? ( sys-auth/consolekit ) systemd? ( sys-apps/systemd ) dev-util/meson >=dev-util/meson-0.54.0 >=dev-util/ninja-1.8.2 dev-util/meson-format-array >=dev-vcs/git-1.8.2.1[curl]
+DEPEND=dev-libs/efl[X] nls? ( sys-devel/gettext ) pam? ( sys-libs/pam ) systemd? ( sys-apps/systemd ) dev-util/meson >=dev-util/meson-0.54.0 >=dev-util/ninja-1.8.2 dev-util/meson-format-array >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Entrance - An EFL based display manager.
 EAPI=6
 HOMEPAGE=https://github.com/Obsidian-StudiosInc/entrance
-IUSE=consolekit debug nls pam systemd
+IUSE=debug nls pam systemd
 LICENSE=GPL-3
 PROPERTIES=live
-RDEPEND=dev-libs/efl[X] nls? ( sys-devel/gettext ) pam? ( sys-libs/pam ) consolekit? ( sys-auth/consolekit ) systemd? ( sys-apps/systemd )
+RDEPEND=dev-libs/efl[X] nls? ( sys-devel/gettext ) pam? ( sys-libs/pam ) systemd? ( sys-apps/systemd )
 SLOT=0
 _eclasses_=eapi7-ver	f9ec87e93172b25ce65a85303dc06964	git-r3	3e7ec3d6619213460c85e2aa48398441	meson	fdaf2a7b9376934c1c7ddbd32114defb	multilib	d410501a125f99ffb560b0c523cd3d1e	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	python-utils-r1	69861348186337fa4b269de5826004b3	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
-_md5_=d83d2b51ad58a0e286fc343550e1f6d4
+_md5_=61827d9d0080d85a7b218d20d679cfd9

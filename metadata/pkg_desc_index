@@ -13,6 +13,7 @@ media-video/rage 9999: This is a Video + Audio player mplayer style, based on EF
 net-irc/express 9999: Enlightenment IRC client
 net-misc/econnman 9999: EFL user interface for connman
 net-news/news 9999: Enlightenment news reader gadget
+net-p2p/epour 9999: Enlightenment torrent client
 sys-process/evisum 9999: System and process monitor written with EFL
 x11-misc/enlightenment-extra 9999: An app for downloading themes and add-ons to Enlightenment WM
 x11-misc/enotes 9999: Sticky notes based on EFL

@@ -58,7 +58,6 @@ dev-libs/efl:xpresent - Enable x11-libs/libXpresent support
 media-video/rage:gstreamer - Enabling gstreamer engine
 media-video/rage:vlc - Enabling vlc engine
 media-video/rage:xine - Enabling xine engine
-x11-misc/entrance:consolekit - Enables support for authorization using consolekit
 x11-misc/entrance:pam - PAM support
 x11-wm/enlightenment:eeze - Use eeze to mount/unmount devices trough udev
 x11-wm/enlightenment:egl - Enable EGL support
