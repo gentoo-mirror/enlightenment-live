@@ -22,6 +22,7 @@ dev-libs/efl:glib - Enable dev-libs/glib support
 dev-libs/efl:gnutls - Prefer net-libs/gnutls as SSL/TLS provider (ineffective with USE=-ssl)
 dev-libs/efl:gstreamer - use gstreamer 1.0 support
 dev-libs/efl:harfbuzz - Enable complex text shaping and layout support
+dev-libs/efl:heif - Enable HEIF loader
 dev-libs/efl:hyphen - Enable text hyphenation support
 dev-libs/efl:ibus - Enable Intelligent Input Bus
 dev-libs/efl:ico - Enable Ico image loader
