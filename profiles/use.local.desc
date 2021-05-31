@@ -29,6 +29,7 @@ dev-libs/efl:ico - Enable Ico image loader
 dev-libs/efl:jpeg2k - Support for JPEG 2000, a wavelet-based image compression format
 dev-libs/efl:json - Add support for json evas loader
 dev-libs/efl:libuv - Enable dev-libs/libuv support
+dev-libs/efl:lua - Build support for lua bindings
 dev-libs/efl:luajit - USE dev-lang/luajit instead of dev-lang/lua
 dev-libs/efl:nls - Add Native Language Support (using gettext - GNU locale utilities)
 dev-libs/efl:opengl - Add support for OpenGL (3D graphics)
