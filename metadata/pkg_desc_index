@@ -11,7 +11,6 @@ media-gfx/eluminance 9999: Enlightenment photo browser
 media-gfx/ephoto 9999: Enlightenment image viewer built on the EFL.
 media-video/rage 9999: This is a Video + Audio player mplayer style, based on EFL
 net-irc/express 9999: Enlightenment IRC client
-net-misc/econnman 9999: EFL user interface for connman
 net-news/news 9999: Enlightenment news reader gadget
 net-p2p/epour 9999: Enlightenment torrent client
 sys-process/evisum 9999: System and process monitor written with EFL
