@@ -3,7 +3,7 @@ DEFINED_PHASES=compile configure install postinst postrm preinst test unpack
 DEPEND=>=dev-libs/efl-1.18.0 virtual/pkgconfig dev-util/meson
 DESCRIPTION=Feature rich terminal emulator using the Enlightenment Foundation Libraries
 EAPI=8
-HOMEPAGE=https://www.enlightenment.org/p.php?p=about/terminology
+HOMEPAGE=https://www.enlightenment.org?p=about/terminology
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=meson xdg git-r3
 LICENSE=BSD-2
@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=>=dev-libs/efl-1.18.0
 SLOT=0
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	38c85b725d0467e51954ea921b6c104b	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	a1a985ddd8795a8634b4b7f820b93143	meson	1994a5aef5d4f5798b92f64d6f9a6003	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857	git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=ececb2ae791673148d014be6afd3a682
+_md5_=b786e5faa785f8fd959f2736c5ce79eb
