@@ -1,7 +1,7 @@
 app-editors/ecrire 9999: Enlightenment experimental text editor
 app-misc/equate 9999: Enlightenment calculator
 dev-libs/efl 9999: Enlightenment Foundation Core Libraries
-dev-python/python-efl 9999: Python bindings for EFL
+dev-python/python-efl 9999: Python bindings for Enlightenment Foundation Libraries
 dev-util/efl_profiler_viewer 9999: EFL Profiler Viewer
 dev-util/eflete 9999: Edje Theme Editor - a theme graphical editor
 dev-util/enventor 9999: EFL Dynamic EDC edtiro

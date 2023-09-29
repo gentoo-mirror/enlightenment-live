@@ -1,13 +1,13 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=unpack
-DEPEND=dev-python/python-distutils-extra >=dev-libs/efl-1.15.0 ~dev-python/python-efl-9999 dev-python/pyxdg sys-apps/dbus x11-misc/xdg-utils net-libs/libtorrent-rasterbar[python]
+DEPEND=>=dev-libs/efl-1.15.0 ~dev-python/python-efl-9999 dev-python/pyxdg sys-apps/dbus x11-misc/xdg-utils net-libs/libtorrent-rasterbar[python]
 DESCRIPTION=Enlightenment torrent client
 EAPI=8
 HOMEPAGE=https://www.enlightenment.org/about-epour
 INHERIT=git-r3
 LICENSE=GPL-2
 PROPERTIES=live
-RDEPEND=dev-python/python-distutils-extra >=dev-libs/efl-1.15.0 ~dev-python/python-efl-9999 dev-python/pyxdg sys-apps/dbus x11-misc/xdg-utils net-libs/libtorrent-rasterbar[python]
+RDEPEND=>=dev-libs/efl-1.15.0 ~dev-python/python-efl-9999 dev-python/pyxdg sys-apps/dbus x11-misc/xdg-utils net-libs/libtorrent-rasterbar[python]
 SLOT=0
 _eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
-_md5_=ce40fd4b8e48fe390c03d739d10c0373
+_md5_=dccfa2fc0e72dc0332a88797b5d63190

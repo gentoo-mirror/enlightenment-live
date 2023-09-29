@@ -117,3 +117,4 @@ x11-wm/enlightenment:wl-weekeyboard - Wayland virtual keyboard
 x11-wm/enlightenment:wl-wl - Wayland-in-Wayland module
 x11-wm/enlightenment:wl-x11 - Wayland-in-X11 module
 x11-wm/enlightenment:xkbswitch - Keyboard layout configuration and switcher
+x11-wm/enlightenment:xwayland - Support for XWayland
