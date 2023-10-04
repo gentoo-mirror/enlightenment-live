@@ -61,6 +61,7 @@ media-video/rage:gstreamer - Enabling gstreamer engine
 media-video/rage:vlc - Enabling vlc engine
 media-video/rage:xine - Enabling xine engine
 x11-misc/entrance:pam - PAM support
+x11-terms/terminology:extras - Install additional testing tools
 x11-wm/enlightenment:appmenu - Gadget that hold the toolbar of the foreground application
 x11-wm/enlightenment:backlight - Backlight control slider gadget
 x11-wm/enlightenment:battery - A gadget to visualize your battery status
