@@ -2,12 +2,14 @@ app-editors/ecrire 9999: Enlightenment experimental text editor
 app-misc/equate 9999: Enlightenment calculator
 dev-libs/efl 9999: Enlightenment Foundation Core Libraries
 dev-python/python-efl 9999: Python bindings for Enlightenment Foundation Libraries
+dev-util/edi 9999: An IDE using EFL
 dev-util/efl_profiler_viewer 9999: EFL Profiler Viewer
 dev-util/eflete 9999: Edje Theme Editor - a theme graphical editor
 dev-util/enventor 9999: EFL Dynamic EDC edtiro
 dev-util/espionage 9999: A complete D-Bus inspector written in python that use the EFL
 dev-vcs/egitu 9999: GIT client based on EFL
 media-gfx/eluminance 9999: Enlightenment photo browser
+media-gfx/entice 9999: Entice photo browser
 media-gfx/ephoto 9999: Enlightenment image viewer built on the EFL.
 media-video/rage 9999: This is a Video + Audio player mplayer style, based on EFL
 net-irc/express 9999: Enlightenment IRC client
