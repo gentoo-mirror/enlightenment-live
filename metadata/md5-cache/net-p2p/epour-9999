@@ -9,5 +9,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=>=dev-libs/efl-1.15.0 ~dev-python/python-efl-9999 dev-python/pyxdg sys-apps/dbus x11-misc/xdg-utils net-libs/libtorrent-rasterbar[python]
 SLOT=0
-_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
+_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
 _md5_=dccfa2fc0e72dc0332a88797b5d63190
