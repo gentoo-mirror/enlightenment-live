@@ -3,7 +3,7 @@ DEFINED_PHASES=configure install prepare unpack
 DEPEND=>=dev-libs/efl-1.18.0
 DESCRIPTION=EFL Dynamic EDC edtiro
 EAPI=7
-HOMEPAGE=https://git.enlightenment.org/tools/enventor.git/about/
+HOMEPAGE=https://www.enlightenment.org/about-enventor
 INHERIT=git-r3 autotools
 IUSE=doc nls static-libs
 LICENSE=BSD-2
@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=>=dev-libs/efl-1.18.0
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	35f9bf6198bb538e28dcdea5fda274f2
-_md5_=0131b76f0628ba9aa5625b3e70abf939
+_md5_=b6fc0286b5c083696ac88b3bf0e70164

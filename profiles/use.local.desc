@@ -17,7 +17,6 @@ dev-libs/efl:fbcon - Enable support for the frame buffer in efl
 dev-libs/efl:fontconfig - Enable support for fontconfig
 dev-libs/efl:fribidi - Enable bidirectional text support
 dev-libs/efl:gif - Enable GIF image loader
-dev-libs/efl:gles - Enable the OpenGL ES GL implementation
 dev-libs/efl:glib - Enable dev-libs/glib support
 dev-libs/efl:gnutls - Prefer net-libs/gnutls as SSL/TLS provider (ineffective with USE=-ssl)
 dev-libs/efl:gstreamer - use gstreamer 1.0 support
