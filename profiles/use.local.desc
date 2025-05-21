@@ -2,23 +2,20 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-libs/efl:avahi - Add avahi/Zeroconf support
+dev-libs/efl:avif - Add AV1 Image Format (AVIF) support
 dev-libs/efl:bmp - Enable WBMP image loader
 dev-libs/efl:connman - Add support for net-misc/connman
 dev-libs/efl:dds - Enable DDS image loader
-dev-libs/efl:debug - Enable magic debug of eina structure and debug threads for EFL
+dev-libs/efl:debug - Enable extra debug codepaths, like asserts and extra output. If you want to get meaningful backtraces see https://wiki.gentoo.org/wiki/Project:Quality_Assurance/Backtraces
 dev-libs/efl:doc - Documentation with Doxygen
 dev-libs/efl:drm - Enable DRM engine
 dev-libs/efl:eet - Enable Eet image loader
-dev-libs/efl:egl - Enable EGL rendering
-dev-libs/efl:eo - Enable EO files installation
-dev-libs/efl:example - Build example
+dev-libs/efl:examples - Compile examples
 dev-libs/efl:fbcon - Enable support for the frame buffer in efl
 dev-libs/efl:fontconfig - Enable support for fontconfig
 dev-libs/efl:fribidi - Enable bidirectional text support
 dev-libs/efl:gif - Enable GIF image loader
 dev-libs/efl:glib - Enable dev-libs/glib support
-dev-libs/efl:gnutls - Prefer net-libs/gnutls as SSL/TLS provider (ineffective with USE=-ssl)
 dev-libs/efl:gstreamer - use gstreamer 1.0 support
 dev-libs/efl:harfbuzz - Enable complex text shaping and layout support
 dev-libs/efl:heif - Enable HEIF loader
@@ -26,29 +23,26 @@ dev-libs/efl:hyphen - Enable text hyphenation support
 dev-libs/efl:ibus - Enable Intelligent Input Bus
 dev-libs/efl:ico - Enable Ico image loader
 dev-libs/efl:jpeg2k - Support for JPEG 2000, a wavelet-based image compression format
+dev-libs/efl:jpegxl - Add JPEG XL image support
 dev-libs/efl:json - Add support for json evas loader
-dev-libs/efl:libuv - Enable dev-libs/libuv support
-dev-libs/efl:lua - Build support for lua bindings
-dev-libs/efl:luajit - USE dev-lang/luajit instead of dev-lang/lua
 dev-libs/efl:nls - Add Native Language Support (using gettext - GNU locale utilities)
-dev-libs/efl:opengl - Add support for OpenGL (3D graphics)
 dev-libs/efl:pdf - Add general support for PDF
 dev-libs/efl:physics - Enable Bullet physics effects and support
-dev-libs/efl:pixman - Enable PixMan for software rendering
-dev-libs/efl:ppm - Enable PMAPS image loader
+dev-libs/efl:pmaps - Enable PMAPS image loader
+dev-libs/efl:postscript - Enable support for the PostScript language (often with ghostscript-gpl or libspectre)
 dev-libs/efl:psd - Enable PSD image loader
 dev-libs/efl:pulseaudio - pulseaudio support
 dev-libs/efl:raw - Enable libraw library for image loader
 dev-libs/efl:scim - Enable Smart Common Input Method
-dev-libs/efl:sound - Flag for handling audio support in efl
-dev-libs/efl:ssl - Add support for SSL/TLS connections
+dev-libs/efl:sdl - Enable SDL support in EFL
+dev-libs/efl:svg - Add support for SVG (Scalable Vector Graphics)
 dev-libs/efl:systemd - use systemd support
 dev-libs/efl:test - Build tests
 dev-libs/efl:tga - Enable Tga image loader
+dev-libs/efl:tgv - Enable Tgv image loader
 dev-libs/efl:tiff - Enable TIFF image loader
 dev-libs/efl:tslib - Enable x11-libs/tslib for touchscreen events
 dev-libs/efl:v4l - Include Video4Linux v2 support in the build
-dev-libs/efl:vlc - Enabling vlc evas engine
 dev-libs/efl:vnc - Enable vnc server
 dev-libs/efl:wayland - Enable Wayland
 dev-libs/efl:webp - Enable WebP image loader
@@ -56,65 +50,13 @@ dev-libs/efl:xcf - Enable XCF image loader
 dev-libs/efl:xim - Enable X Input Method
 dev-libs/efl:xpm - Add support for XPM graphics format
 dev-libs/efl:xpresent - Enable x11-libs/libXpresent support
+dev-libs/efl:zeroconf - Add avahi/Zeroconf support
 media-video/rage:gstreamer - Enabling gstreamer engine
 media-video/rage:vlc - Enabling vlc engine
 media-video/rage:xine - Enabling xine engine
 x11-misc/entrance:pam - PAM support
 x11-terms/terminology:extras - Install additional testing tools
-x11-wm/enlightenment:appmenu - Gadget that hold the toolbar of the foreground application
-x11-wm/enlightenment:backlight - Backlight control slider gadget
-x11-wm/enlightenment:battery - A gadget to visualize your battery status
-x11-wm/enlightenment:bluez4 - Configure Bluetooth devices
-x11-wm/enlightenment:clock - Nice clock gadget to show current time
-x11-wm/enlightenment:conf - Settings Panel
-x11-wm/enlightenment:conf-applications - Allows configuration of Ibar, Restart, and Startup applications
-x11-wm/enlightenment:conf-bindings - Input Control Settings
-x11-wm/enlightenment:conf-dialogs - Configure default dialog properties
-x11-wm/enlightenment:conf-display - Used to configure your screen
-x11-wm/enlightenment:conf-interaction - Configure Mouse and Touch input
-x11-wm/enlightenment:conf-intl - Used to select a default language
-x11-wm/enlightenment:conf-menus - Configures menu behavior
-x11-wm/enlightenment:conf-paths - Specifies the Enlightenment search paths and default directories
-x11-wm/enlightenment:conf-performance - Used to configure certain performance related items as frame rates and cache settings
-x11-wm/enlightenment:conf-randr - Used to configure your screen's resolution
-x11-wm/enlightenment:conf-shelves - Shelf configuration dialog
-x11-wm/enlightenment:conf-theme - Used to configure your theme preferences
-x11-wm/enlightenment:conf-window-manipulation - Configures window raise, resistance, and maximize policies
-x11-wm/enlightenment:conf-window-remembers - Delete existing window remembers
 x11-wm/enlightenment:connman - Control Wifi and wired networks as a user
-x11-wm/enlightenment:cpufreq - Gadget to monitor and change the CPU frequency
-x11-wm/enlightenment:eeze - Use eeze to mount/unmount devices trough udev
-x11-wm/enlightenment:egl - Enable EGL support
-x11-wm/enlightenment:everything - The run command module provides an application launcher dialog
-x11-wm/enlightenment:fileman - Enlightenment's integrated file manager
-x11-wm/enlightenment:fileman-opinfo - Can be placed on the desktop or in a shelf
-x11-wm/enlightenment:gadman - Module to manage gadgets on the desktop
 x11-wm/enlightenment:geolocation - Geolocation
-x11-wm/enlightenment:ibar - Iconic application launcher
-x11-wm/enlightenment:ibox - A home for your iconified applications
-x11-wm/enlightenment:lokker - Screen locker
 x11-wm/enlightenment:mixer - A module to provide a mixer for changing volume
-x11-wm/enlightenment:msgbus - DBus Extension
-x11-wm/enlightenment:music-control - Control your music in your shelf
-x11-wm/enlightenment:notification - notification-daemon alternative. Popup if an event occur
-x11-wm/enlightenment:pager - Gadget to allow you to visualize your virtual desktops and the windows they contain
-x11-wm/enlightenment:pager-plain - A simpler desktop pager
-x11-wm/enlightenment:quickaccess - Enlightenment Quickaccess Launcher
-x11-wm/enlightenment:shot - Simple screenshot+save/upload module
-x11-wm/enlightenment:start - Enlightenment's 'Start' button equivalent
-x11-wm/enlightenment:syscon - This module provides a unified popup dialog for all the system actions in Enlightenment
-x11-wm/enlightenment:systray - system tray that hold applications icons like Skype, Pidgin, Kopete and others
-x11-wm/enlightenment:tasks - Gadget to allow you to switch tasks
-x11-wm/enlightenment:teamwork - Enable teamwork module
-x11-wm/enlightenment:temperature - Temperature monitor
-x11-wm/enlightenment:tiling - Positions/resizes your windows tilingly
-x11-wm/enlightenment:time - The time module
-x11-wm/enlightenment:udev - Use sys-fs/udev to determine available devices
-x11-wm/enlightenment:ukit - Use upower/udisks to automount devices
-x11-wm/enlightenment:winlist - A module to show the list of client applications presently running
-x11-wm/enlightenment:wizard - First Run Wizard
-x11-wm/enlightenment:wl-weekeyboard - Wayland virtual keyboard
-x11-wm/enlightenment:wl-wl - Wayland-in-Wayland module
-x11-wm/enlightenment:wl-x11 - Wayland-in-X11 module
-x11-wm/enlightenment:xkbswitch - Keyboard layout configuration and switcher
 x11-wm/enlightenment:xwayland - Support for XWayland

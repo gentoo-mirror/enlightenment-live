@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=>=dev-libs/efl-1.15.0 ~dev-python/python-efl-1.26.1 dev-python/pyxdg sys-apps/dbus x11-misc/xdg-utils net-libs/libtorrent-rasterbar[python]
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=ca2a158cad6699e6c46ff0ff51357786
+_md5_=b34c89a5a01726c116e7240ad9dfb729
